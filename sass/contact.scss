@@ -1,0 +1,24 @@
+.contact{
+  padding: 20px;
+  background: white;
+  border: 1px solid #CCC;
+  box-shadow: 0 5px 25px rgba(0, 0, 0, 0.5);
+  position: static;
+  top: 50px;
+  right: 20px;
+  width: 100%;
+  z-index: 11;
+  max-width:450px;
+  .fa{
+		display: inline-block;
+		height: 30px;
+		width: 30px;
+		border-radius: 50%;
+		margin-right: 5px;
+		text-align: center;
+		line-height: 30px;
+		font-size: 12px;
+		background: #0288d1;
+		color: white;
+	}
+} 
