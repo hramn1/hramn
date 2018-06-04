@@ -5,8 +5,8 @@
   height: 400px;
 }
 .clip-path__block{
-  width: 200px;
-  height: 200px;
+  width: 300px;
+  height: 300px;
   position: absolute;
   clip-path: polygon(25% 5%, 75% 5%, 100% 50%, 75% 95%, 25% 95%, 0% 50%);
   box-shadow: inset 2px 4px 67px -16px #000;
@@ -21,8 +21,8 @@
   }
   &--2{
     background-color: #ff82b8;
-    top: 90px;
-    right: 200px;
+    top: 135px;
+    right: 125px;
 
   }
   &--3{
@@ -32,8 +32,8 @@
   }
   &--4{
     background-color: #4dffd5;
-    top: 90px;
-    left: 300px;
+    top: 135px;
+    left: 125px;
   }
   &--5{
     top: 270px;
